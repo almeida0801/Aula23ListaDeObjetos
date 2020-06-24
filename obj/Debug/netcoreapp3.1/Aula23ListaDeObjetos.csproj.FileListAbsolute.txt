@@ -1,0 +1,13 @@
+C:\Users\pc\Downloads\Projeto\Aula23Lista\bin\Debug\netcoreapp3.1\Aula23ListaDeObjetos.exe
+C:\Users\pc\Downloads\Projeto\Aula23Lista\bin\Debug\netcoreapp3.1\Aula23ListaDeObjetos.deps.json
+C:\Users\pc\Downloads\Projeto\Aula23Lista\bin\Debug\netcoreapp3.1\Aula23ListaDeObjetos.runtimeconfig.json
+C:\Users\pc\Downloads\Projeto\Aula23Lista\bin\Debug\netcoreapp3.1\Aula23ListaDeObjetos.runtimeconfig.dev.json
+C:\Users\pc\Downloads\Projeto\Aula23Lista\bin\Debug\netcoreapp3.1\Aula23ListaDeObjetos.dll
+C:\Users\pc\Downloads\Projeto\Aula23Lista\bin\Debug\netcoreapp3.1\Aula23ListaDeObjetos.pdb
+C:\Users\pc\Downloads\Projeto\Aula23Lista\obj\Debug\netcoreapp3.1\Aula23ListaDeObjetos.csprojAssemblyReference.cache
+C:\Users\pc\Downloads\Projeto\Aula23Lista\obj\Debug\netcoreapp3.1\Aula23ListaDeObjetos.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\Projeto\Aula23Lista\obj\Debug\netcoreapp3.1\Aula23ListaDeObjetos.AssemblyInfoInputs.cache
+C:\Users\pc\Downloads\Projeto\Aula23Lista\obj\Debug\netcoreapp3.1\Aula23ListaDeObjetos.AssemblyInfo.cs
+C:\Users\pc\Downloads\Projeto\Aula23Lista\obj\Debug\netcoreapp3.1\Aula23ListaDeObjetos.dll
+C:\Users\pc\Downloads\Projeto\Aula23Lista\obj\Debug\netcoreapp3.1\Aula23ListaDeObjetos.pdb
+C:\Users\pc\Downloads\Projeto\Aula23Lista\obj\Debug\netcoreapp3.1\Aula23ListaDeObjetos.genruntimeconfig.cache

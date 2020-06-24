@@ -1,0 +1,4 @@
+C:\Users\pc\Downloads\Projeto\Aula23Lista\obj\Debug\netcoreapp3.1\Aula23Lista.csprojAssemblyReference.cache
+C:\Users\pc\Downloads\Projeto\Aula23Lista\obj\Debug\netcoreapp3.1\Aula23Lista.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\Projeto\Aula23Lista\obj\Debug\netcoreapp3.1\Aula23Lista.AssemblyInfoInputs.cache
+C:\Users\pc\Downloads\Projeto\Aula23Lista\obj\Debug\netcoreapp3.1\Aula23Lista.AssemblyInfo.cs
